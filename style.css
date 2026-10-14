@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/035/916/700/non_2x/cool-editable-pickleball-background-for-any-graphic-purpose-vector.jpg);
+}
+
+h1 {
+    font-family: "Raleway", sans-serif;
+}
+
+h2 {
+    font-family: "Raleway", sans-serif;
+    color: rgb(85, 112, 103);
+}
+
+.pill {
+    background-color: rgb(135, 226, 229);
+    width: 1100px;
+    justify-content: center;
+    align-self: center;
+    border-radius: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+br.space {display: block; content: ''; margin-top: 40px;}
+
+.row {
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-6 {padding: 20px; gap: 20px;}
+
+.rls {background-color: rgb(133, 179, 180); border-radius: 12px; height: 450px;}
+.tchs {background-color: rgb(133, 179, 180); border-radius: 12px; height: 450px;}
+.rtn {background-color: rgb(133, 179, 180); border-radius: 12px; height: 450px;}
